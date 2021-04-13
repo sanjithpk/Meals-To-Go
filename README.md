@@ -1,1 +1,1 @@
-# Meals-To-Go
+# Meals To Go
